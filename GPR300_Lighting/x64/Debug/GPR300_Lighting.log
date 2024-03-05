@@ -1,0 +1,25 @@
+﻿  Camera.cpp
+  ShapeGen.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\GPR300_Lighting\main.cpp(115,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\GPR300_Lighting\main.cpp(312,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\GPR300_Lighting\main.cpp(313,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\GPR300_Lighting\main.cpp(314,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\GPR300_Lighting\main.cpp(347,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\GPR300_Lighting\main.cpp(348,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\GPR300_Lighting\main.cpp(519,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\GPR300_Lighting\main.cpp(520,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  Mesh.cpp
+  Shader.cpp
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GPR300_Lighting.vcxproj -> C:\Users\nicholas.tvaroha\source\repos\PortfolioProjects\Graphics Repository\GraphicsProjects\FinalProject\x64\Debug\GPR300_Lighting.exe
